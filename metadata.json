@@ -1,0 +1,7 @@
+{
+  "name": "MedBill Tracker",
+  "description": "Eine App zur Verwaltung und Verfolgung von Arztrechnungen mit KI-gestütztem Scan-Feature.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
